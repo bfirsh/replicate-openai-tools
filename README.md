@@ -2,7 +2,7 @@
 
 Use Replicate models as tools for OpenAI models with function calling.
 
-Here's how you use it:
+Here's how you use it with, for example, [bfirsh/weather](https://replicate.com/bfirsh/weather):
 
 ```python
 from openai import OpenAI
